@@ -1,0 +1,91 @@
+/* div {
+    height: 100px;
+    width: 100px;
+    background-image: url("cat\ 2.jpg");
+    background-size: cover;
+    color: white;
+    position: fixed;
+    right: 0px;
+    top: 50px;
+} */
+
+/* div {
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+} */
+/* ul {
+    background-color: bisque;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: violet;
+} */
+
+/* li {
+    list-style-type: none; */
+    /* display: inline; */
+    /* background-color: rgb(218, 100, 100); */
+/* } */
+
+/* .outer {
+    height: 400px;
+    width: 400px;
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner {
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+} */
+
+div {
+    height: 200px;
+    width: 200px;
+    background-color: chocolate;
+}
+
+/* @media (width : 600px) {
+   div {
+    background-color: red;
+   } 
+}
+
+@media (min-width : 200px)and (max-width : 300px) {
+    div {
+        background-color: yellow;
+    }
+} */
+
+@media (max-width: 300px) {
+    div {
+        background-color: green;
+    }
+}
+
+@media (min-width : 300px)and (max-width : 400px) {
+    div {
+        background-color: yellow;
+    }
+}
+
+@media (min-width : 400px)and (max-width : 600px) {
+    div {
+        background-color: red;
+    }
+} 
+
+@media (min-width: 600px) {
+    div {
+        background-color: blue;
+    }
+}
+
